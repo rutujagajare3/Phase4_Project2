@@ -1,0 +1,6 @@
+D:\mphasis\19Feb\Phase4-Project2\SchoolLib\bin\Debug\SchoolLib.dll
+D:\mphasis\19Feb\Phase4-Project2\SchoolLib\bin\Debug\SchoolLib.pdb
+D:\mphasis\19Feb\Phase4-Project2\SchoolLib\obj\Debug\SchoolLib.csproj.AssemblyReference.cache
+D:\mphasis\19Feb\Phase4-Project2\SchoolLib\obj\Debug\SchoolLib.csproj.CoreCompileInputs.cache
+D:\mphasis\19Feb\Phase4-Project2\SchoolLib\obj\Debug\SchoolLib.dll
+D:\mphasis\19Feb\Phase4-Project2\SchoolLib\obj\Debug\SchoolLib.pdb
